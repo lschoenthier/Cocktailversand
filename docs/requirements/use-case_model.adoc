@@ -1,17 +1,23 @@
 = Use-Case Model: {project-name}
-Vorname Nachname <email@domain.org>; Vorname2 Nachname2 <email2@domain.org>; Vorname3 Nachname3 <email3@domain.org>
+Ludwig Schöbnthier <ludwig.schoenthier@htw-dresden.de>;
 {localdatetime}
 include::../_includes/default-attributes.inc.adoc[]
 // Platzhalter für weitere Dokumenten-Attribute
 
 
 == Allgemeine Informationen
-// ...
+=== Akteure
+* Barbetreiber
+* Kunde
+* Versanddienstleister
 
 == Identifizierte Use Cases
 // Liste aller identifizierten Use Cases (priorisiert)
-* *UC01*: ...
-* *UC02*: ...
+* *UC01*: Bestellung aufgeben
+* *UC02*: Bestellung bezahlen
+* *UC03*: Bestellung bearbeiten
+* *UC04*: Bestellung liefern
+* *UC05*:
 
 == Use Case Diagramm
 // ...
