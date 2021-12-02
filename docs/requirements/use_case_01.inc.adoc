@@ -1,10 +1,10 @@
 //Nutzen Sie dieses Template als Grundlage für die Spezifikation *einzelner* Use-Cases. Diese lassen sich dann per Include in das Use-Case Model Dokument einbinden (siehe Beispiel dort).
-== Use-Case: <use-case name>
+== Use-Case: Bestellung aufgeben
 ===	Kurzbeschreibung
-//<Kurze Beschreibung des Use Case>
+Der Kunde wählt Cocktails auf und fügt diese einem Warenkorb hinzu. Danach klickt er auf 'bestellen'.
 
 ===	Kurzbeschreibung der Akteure
-==== <Akteur 1 Name>
+==== Kunde, Webserver, Barbetreiber
 
 === Vorbedingungen
 //Vorbedingungen müssen erfüllt, damit der Use Case beginnen kann, z.B. Benutzer ist angemeldet, Warenkorb ist nicht leer...
